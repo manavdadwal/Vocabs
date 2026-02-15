@@ -93,6 +93,7 @@ header {
     scrollbar-width: none;
     -ms-overflow-style: none;
     padding: 0.25rem 0;
+    justify-content: center;
 }
 
 .alphabet-tabs::-webkit-scrollbar {
